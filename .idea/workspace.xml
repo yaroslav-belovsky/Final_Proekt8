@@ -1,11 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63a21230-0557-454e-af8e-ec3669665166" name="Changes" comment="" />
+    <list default="true" id="63a21230-0557-454e-af8e-ec3669665166" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Final_Proekt8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_asyncio.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_ctypes.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_ctypes_test.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_decimal.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_elementtree.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_hashlib.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_lzma.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_multiprocessing.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_overlapped.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_queue.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_socket.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_sqlite3.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_ssl.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_testbuffer.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_testcapi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_testclinic.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_testclinic_limited.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_testconsole.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_testimportmultiple.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_testinternalcapi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_testlimitedcapi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_testmultiphase.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_testsinglephase.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_tkinter.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_uuid.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/_wmi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libcrypto-3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libffi-8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libssl-3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pyexpat.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python313.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/tcl86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/tk86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/unicodedata.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/winsound.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/zlib1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
