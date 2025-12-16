@@ -1,3 +1,6 @@
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
 <h2>Привіт, {{ user }}</h2>
 <form method="post" action="/questions_add">
     <textarea name="question" placeholder="Нове питання"></textarea>
