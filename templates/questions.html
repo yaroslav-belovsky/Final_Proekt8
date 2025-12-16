@@ -1,0 +1,19 @@
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<h2>Привіт, {{ user }}</h2>
+<form method="post" action="/questions_add">
+    <textarea name="question" placeholder="Нове питання"></textarea>
+    <button>Додати</button>
+</form>
+
+<ul>
+{% for q in questions %}
+    <li>
+        <b>{{ q.q_user }}</b>: {{ q.question }}
+        <a href="/questions_page/{{ q.id }}">Відкрити</a>
+    </li>
+{% endfor %}
+</ul>
+<a href="/logout">Вийти</a>
+

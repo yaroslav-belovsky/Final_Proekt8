@@ -1,0 +1,21 @@
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<h2>{{ rows[0].question }}</h2>
+
+<ul>
+{% for r in rows %}
+    {% if r.answer %}
+        <li><b>{{ r.a_user }}</b>: {{ r.answer }}</li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<form method="post" action="/answers_add">
+    <input type="hidden" name="qid" value="{{ qid }}">
+    <textarea name="answer"></textarea>
+    <button>Відповісти</button>
+</form>
+<a href="/questions_page">Назад</a>
+
+

@@ -1,8 +1,8 @@
 import json
 import sqlite3
 from sqlite3 import IntegrityError
-
 from flask import Flask, request
+
 app = Flask(__name__)
 
 
